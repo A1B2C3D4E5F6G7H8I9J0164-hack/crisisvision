@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.3
+python-dotenv==1.0.1
+# Add ML dependencies here, e.g.,
+# torch
+# torchvision
+# transformers
+# numpy
+# pandas
