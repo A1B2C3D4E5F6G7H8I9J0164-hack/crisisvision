@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
 
 const CONFIG = {
-  API_KEY: import.meta.env.VITE_OPENROUTER_KEY || "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",
+  API_KEY: import.meta.env.VITE_OPENROUTER_KEY || "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",
   MODEL: import.meta.env.VITE_MODEL || "openrouter/free",
   REFRESH: 25000,
 };
